@@ -14,7 +14,7 @@ $ npm run dev
 $ open http://localhost:7001/
 ```
 
-### Deploy
+### Deploy 
 
 ```bash
 $ npm start
